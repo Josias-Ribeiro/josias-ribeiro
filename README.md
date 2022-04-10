@@ -23,4 +23,7 @@
 <div> 
  	<a href="https://www.linkedin.com/in/josias-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:josias_ribeiro90@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  
+  <p align="center"> Visitors count </p>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Josias-Ribeiro/count.svg" /></p>
 </div>
