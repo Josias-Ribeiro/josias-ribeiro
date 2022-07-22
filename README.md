@@ -1,6 +1,6 @@
 ## Josias Ribeiro 
 
-👨‍💻 - Front end developer </br>
+👨‍💻 - Developer </br>
 🖥 - Eternal student
 <div align="center">
   <a href="https://github.com/josias-ribeiro">
