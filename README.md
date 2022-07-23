@@ -19,7 +19,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ### 🎨 &nbsp;Front-end
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="Josias-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
   <img align="center" alt="Josias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Josias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
@@ -28,8 +28,12 @@
   <img align="center" alt="Josias-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
+<br>
+
  ### 👩‍💻 &nbsp;Back-End
 <img align="center" alt="Josias-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+
+<br>
 
 ### ⚡ &nbsp;Packages
 <img align="center" alt="Josias-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
