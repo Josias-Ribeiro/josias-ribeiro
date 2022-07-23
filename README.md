@@ -28,12 +28,8 @@
   <img align="center" alt="Josias-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
-<br>
-
  ### 👩‍💻 &nbsp;Back-End
 <img align="center" alt="Josias-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
-
-<br>
 
 ### ⚡ &nbsp;Packages
 <img align="center" alt="Josias-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
