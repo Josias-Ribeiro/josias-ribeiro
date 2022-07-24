@@ -34,7 +34,7 @@
 ### ⚡ &nbsp;Packages
 <div style="display: inline_block">
 <img align="center" alt="Josias-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
-<img  align="center" alt="Josias-Nugget" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
+<img  align="center" alt="Josias-Nugget" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
 </div>
 
 ***
