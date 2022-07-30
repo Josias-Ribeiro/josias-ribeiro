@@ -28,13 +28,10 @@
   <img align="center" alt="Josias-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
- ### 👩‍💻 &nbsp;Back-End
-<img align="center" alt="Josias-C#" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 
 ### ⚡ &nbsp;Packages
 <div style="display: inline_block">
 <img align="center" alt="Josias-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
-<img  align="center" alt="Josias-Nugget" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
 </div>
 
 ***
@@ -43,9 +40,4 @@
   <a href="https://github.com/josias-ribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josias-ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josias-ribeiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-<div>   
-  <p align="center"> Visitors count </p>
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Josias-Ribeiro/count.svg" /></p>
 </div>
