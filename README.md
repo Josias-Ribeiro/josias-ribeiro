@@ -1,14 +1,12 @@
-## Olá, seja bem vindo(a) ao meu perfil
+## Olá, seja bem vindo(a)
 
 <div align="center">
-   <h3> Meu nome é Josias e sou desenvolvedor de software </h3>
+   <h3> Meu nome é Josias e atuo como front end  </h3>
 </div>
 
 - 👨‍💻  Developer </br>
 
-- 🖥  Eternal student
-
-- 🎓 Formado em **Sistemas de Informação**, e pós graduado em **Tecnologias e Inovações Web**, sempre em constante aprendizado, através de cursos, podcasts, meetups, congressos.
+- 🎓 Formado em **Sistemas de Informação**, e pós graduado em **Tecnologias e Inovações Web**
 
 ***
 
