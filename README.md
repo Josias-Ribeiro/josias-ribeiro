@@ -28,8 +28,7 @@
 
 ### 🎨 &nbsp;Mobile
 <div style="display: inline_block">
-<img align="center" alt="Josias-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">              
-          
+<img align="center" alt="Josias-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">              
 </div>
 
 ### ⚡ &nbsp;Packages
