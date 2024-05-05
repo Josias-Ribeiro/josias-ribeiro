@@ -11,7 +11,7 @@
 ### Tecnologias
 - **Front-end**: Angular | JavaScript | TypeScript | HTML5 | CSS3 | SCSS
 - **Mobile**: Ionic
-- **Testes**: Jest para testes unitários
+- **Testes**: Jest/Jasmine
 - **Ferramentas**: NPM | Azure | Jira
 - **Padrões de Projeto**: SOLID, Facade
 - **Estado**: NgRx, RxJs
