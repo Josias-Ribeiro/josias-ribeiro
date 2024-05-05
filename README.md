@@ -1,5 +1,3 @@
-## Bem-vindo!
-
 ### Josias Ribeiro — Desenvolvedor Front-End
 
 - 👨‍💻 Experiência avançada com Angular e práticas de CI/CD.
